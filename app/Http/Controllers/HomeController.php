@@ -14,4 +14,11 @@ class HomeController extends Controller
     	echo "Welcome to Laravel";die;
 
     }
+
+
+    public function blog()
+    {
+	return view('blog');
+    }
+
 }
