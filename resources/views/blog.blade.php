@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
 	</head>
 	<body>
-	 
+        <nav>	 
 		<div class="top-bar">
 			<div class="top-bar-left">
 				<ul class="menu">
@@ -23,7 +23,7 @@
 				</ul>
 			</div>
 		</div>
-		 
+        </nav> 
 		<div class="callout large primary">
 			<div class="row column text-center">
 				<h1>Our Blog</h1>
