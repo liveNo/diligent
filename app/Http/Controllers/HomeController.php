@@ -18,7 +18,7 @@ class HomeController extends Controller
 
     public function blog()
     {
-		return view('blog/lsit');
+		return view('blog/list');
     }
 
 }
